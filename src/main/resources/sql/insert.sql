@@ -1,2 +1,2 @@
-INSERT INTO `PRODUCT` (TITLE,PRICE) VALUES ('book',12),('cup',123),('bicycle',34),('soldering iron',552),('shirt',22.59),('chocolate',2.99),('head',15.88);
-INSERT INTO `USER` (LOGIN,PASSWORD) VALUES ('123','123'),('222','222')
+insert into `PRODUCT` (TITLE,PRICE) VALUES ('Chocolate',2.99),('Snickers',2.50),('Mars',3.40),('Twix',3.75),('Milky Way',2.59),('Nutella',19.99),('Peanut Butter',15.05);
+insert into `USER` (LOGIN,PASSWORD) VALUES ('1234','1234'),('5678','5678')
